@@ -1,0 +1,15 @@
+{
+  "name": "parcel-ts-type-roots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/node": "^10.10.1",
+    "parcel-bundler": "^1.9.7",
+    "parcel-plugin-typescript": "^1.0.0",
+    "typescript": "^3.0.3"
+  }
+}
